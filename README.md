@@ -1,5 +1,5 @@
 # RL-TRIM: Reinforcement Learning drivenTransformer Model Structured Pruning
-###  RL-TRIM, a novel framework that employs reinforcement learning for the structured pruning of Transformer models, specifically targeting models like LLaMA
+###  This framework employs reinforcement learning for the structured pruning of Transformer models, specifically targeting models like LLaMA
 
 
 Our approach involves pruning at different granularities, including head pruning and
